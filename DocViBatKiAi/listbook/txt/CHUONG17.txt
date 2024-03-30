@@ -1,0 +1,258 @@
+ĐỌC VỊ BẤT KỲ AI - ĐỂ KHÔNG BỊ LỪA DỐI VÀ LỢI DỤNG
+Chương 17: Nghệ Thuật Và Khoa Học Tìm Hiểu Tính Cách - Những Ví Dụ Thực Tế
+“Trí tưởng tượng và những điều hư cấu chiếm tới ba phần tư cuộc sống thực của mỗi chúng ta.”
+
+Simone Weil (1909 – 1943)
+
+Trong chương này, chúng ta sẽ phân tích hai kiểu phân loại có thể áp dụng trong tất cả các trường hợp biến thiên trong thực tế, cùng các ví dụ minh họa để giúp các bạn hiểu rõ hơn về việc áp dụng các thủ thuật phân tích tâm lý trong sách này.
+
+Sau khi đã quan sát được các “màu sắc” – như lòng tự trọng, sự tự tin, sở thích – bạn có thể sắp xếp, pha trộn chúng để tạo nên một bản lý lịch hoàn chỉnh về đối tượng, từ đó đọc vị được các suy nghĩ, cảm xúc, niềm tin và có thể là cả cách hành xử của họ. Bạn sẽ thấy trong một số trường hợp, một số loại sắc màu – cả cơ bản lẫn thứ cấp – đều không ảnh hưởng nhiều tới kết quả đọc vị một người của bạn. Bạn sẽ nhận ra rằng những quan tâm của đối tượng (chứ không phải mức độ quan tâm) mới là điểm ban đầu để xây dựng những thông tin cơ bản về tâm lý của một người. Theo lý thuyết, bạn có thể sử dụng bất kỳ sắc màu nào để bắt đầu quá trình phân tích tâm lý. Tuy nhiên, trên thực tế, sự quan tâm mới là phương pháp dễ làm nhất, vì khi đặt trong hoàn cảnh cụ thể, chúng sẽ là cái dễ hiểu nhất.
+
+Hai kiểu phân loại
+Loại A: Người không có hứng thú từ đầu với kết quả (ví dụ: thành viên bồi thẩm đoàn (ở tòa án), khi đánh giá công việc, khi giúp đỡ một người bạn).
+
+Loại B: Người có hứng thú (động cơ) từ đầu (ví dụ người chơi bài, khi đi đàm phán, thuyết phục người khác, khi bán hàng qua điện thoại).
+
+
+
+Lưu ý: Trong những trường hợp khi không biết mức độ quan tâm của đối tượng đến đâu, như trong một buổi hẹn hò, bạn có thể áp dụng các thủ thuật đã học trong chương 5, sau đó quan sát xem người đó có thể hiện hứng thú từ đầu hay không, rồi áp dụng cách thức phân tích phù hợp.
+
+Trước tiên, chúng ta sẽ phân tích các tình huống trong đó đối tượng là người không có hứng thú từ đầu và tự trọng cao, sau đó tới người có hứng thú (động cơ) từ đầu và tự trọng thấp. Tiếp đến là các trường hợp khi đối tượng có hứng thú từ đầu với kết quả và có vẻ là có lòng tự trọng cao, rồi tới người dường như có lòng tự trọng thấp.
+
+LOẠI A: Người không có hứng thú từ đầu đối với kết quả
+
+
+
+Một người bình thường dĩ nhiên là muốn làm điều đúng đắn, nên làm, như là muốn có sự công bằng, muốn giúp được bạn bè lúc cần thiết. Tuy nhiên, ở đây chúng ta đang đề cập tới việc một người có hứng thú từ đầu với kết quả có lợi cho họ hay không, khi họ là người theo chủ nghĩa cá nhân và ích kỷ.
+
+Hãy nhớ rằng sự tự tôn chính là nhân tố quyết định mức hứng thú từ đầu đối với một việc có ảnh hưởng lớn tới đối tượng. Khi một người càng có lòng tự trọng cao, anh ta càng có nhiều khả năng đạt được cảm giác thỏa mãn khi theo đuổi những mục tiêu (mà anh ta cho là) có ý nghĩa đối với anh ta hơn. Ngược lại, khi mức tự trọng không cao, đối tượng không thấy cần thiết phải làm điều đúng đắn, cho nên không có hoặc có rất ít hứng thú với kết quả công việc mà họ theo đuổi.
+
+
+
+Trong trường hợp một người không có hứng thú nào từ ban đầu, mức độ tự tôn là nhân tố ảnh hưởng nhiều nhất tới suy nghĩ và quá trình ra quyết định của anh ta. Do đó, chúng ta cần tập trung chú ý tới nó nhiều nhất. Bắt đầu từ đây, chúng ta phác ra những thông tin cơ bản của đối tượng. Các phần tiếp theo sẽ giúp bạn rút ra kết luận (kết quả đọc vị) từ những thông tin đó.
+
+Phân tích S.N.A.P.: Đánh giá chung
+
+Khi liên quan tới các vấn đề nguy cấp với bản thân, cần bỏ ra nhiều công sức để làm được việc, con người càng có xu hướng giảm các hành động nghĩa hiệp hoặc tích cực của mình. Tuy nhiên, nếu có lòng tự trọng cao, con người sẽ kiên định hơn trong việc duy trì ý chí muốn làm điều đúng đắn hơn là làm vì cảm thấy thích, hoặc để đánh bóng hình ảnh bản thân. Khi tự trọng giảm, tâm trạng trở thành nhân tố chi phối nhiều hơn, khi đó dù công sức bỏ ra rất ít, thậm chí không cần, nhưng mong muốn làm điều đúng đắn cũng giảm. Trường hợp tâm trạng xuống dốc nhưng lại cần bỏ nhiều công sức hơn thì cơ hội làm vậy càng giảm nhanh hơn. Đối với một người không có hứng thú từ trước và lòng tự trọng thấp, vấn đề nguy cấp/ khốn đốn thế nào lúc đó cũng chẳng quan trọng nữa, vì tâm trạng khi đó đã chùng xuống rồi.
+
+Khi tâm trạng phơi phới trở lại, con người có thể tạm thời rời xa trạng thái suy nghĩ mọi thứ tập trung vào bản thân mà để mắt (một lần) tới những nhu cầu của người khác. Vì thế, sự bằng lòng, hay mức độ hợp tác của người có lòng tự trọng thấp, sẽ mạnh nhất khi người đó có tâm trạng tốt, không cần bỏ ra nhiều công sức và không cần lo lắng nhiều tới việc có gặp phải vấn đề gì không. Cũng cần phải nói rằng lòng tự tin không nên xét đến trong trường hợp này vì nó vốn là một biểu hiện khác của hứng thú – và vì vậy có mối quan hệ tỷ lệ nghịch với lòng tự trọng. Kết luận lại, khi tự trọng thấp và không có hứng thú từ trước, một người có thể đơn giản không quan tâm tới mức độ công sức anh ta cần bỏ ra khi làm một việc nào đó.
+
+
+
+Như bạn đã biết, tự trọng thấp không phải lúc nào cũng ở một mức như nhau. Kiểu người LE-A sẽ ít để tâm tới ánh mắt của người đời, trong khi kiểu người LE-D có thể dễ dàng bị thay đổi bởi ảnh hưởng từ đánh giá của người khác. Khi cả hai kiểu người trên đều quan tâm tới cách nhìn của người khác, kiểu LE-A sẽ thích thỏa mãn các nhu cầu của chính mình hơn. Một khi đã muốn điều gì, người đó sẽ chỉ làm điều có lợi cho mình; trong khi kiểu LE-D dễ dàng chấp nhận từ bỏ lợi ích của mình để phục tùng người khác.
+
+Kiểu người có vẻ có lòng tự trọng cao
+
+Biết tập trung cho những lợi ích lâu dài và biết nghĩ cho người khác, có bản lĩnh để vượt qua mong muốn tư lợi.
+Trong trường hợp cảm giác bị nguy hiểm không ở mức quá thấp, tâm trạng cũng không ảnh hưởng nhiều tới suy nghĩ của họ.
+
+
+Trong trường hợp không có quá nhiều hứng thú (để làm điều đúng đắn), lòng tự tin trong họ thường chỉ xoay quanh mức độ hứng thú và cũng không chiếm nhiều suy nghĩ của họ.
+Kiểu người này nhận thức được thực tế vấn đề và không để cảm xúc cá nhân chi phối sự nhận thức ấy của họ. Những đánh giá của họ đa chiều, không bị phiến diện và không tập trung vào bản thân. Họ tư duy tích cực và có thể cho nhiều hơn nhận, không thô lỗ hay vội vàng. Vì kiểu người này không cần phải chứng tỏ bản thân nên họ rất tập trung và không để ý tới việc tư lợi. Họ tập trung vào việc tổng hợp thông tin để ra quyết định đúng và ít quan tâm tới việc mình đang biểu hiện thế nào. Khi lòng tự trọng càng cao, họ càng có ý chí kiên định, quyết thực hiện điều đúng đắn cho dù điều đó có bắt họ phải hy sinh lợi ích cá nhân.
+
+Kiểu người có vẻ có lòng tự trọng thấp
+
+Tập trung vào các ham muốn nhất thời và thường là vì tư lợi.
+
+Tâm trạng lấn lướt lòng tự trọng, chi phối mọi thứ.
+
+
+Mức độ tự tin tỷ lệ nghịch với hứng thú, không chiếm nhiều phần trăm trong suy nghĩ đủ để trở thành yếu tố gây ảnh hưởng lớn.
+Những câu nói thường gặp
+Kiểu người
+LE-D
+LE-A
+Kết hợp
+
+Trường hợp có hứng thú từ trước
+“Tôi sẽ cố gắng.”
+“Tôi cần làm điều này.”
+“Tôi sẽ làm điều tôi có thể.”
+
+Trường hợp không có hứng thú từ trước
+“Tôi không muốn làm ai giận.”
+“Sao cũng được!”
+“Hãy làm cái gì đúng đắn nhất.”
+
+Người kiểu LE-D hay LE-A chỉ thấy được những thứ họ muốn thấy để đạt được cảm giác an toàn; chính vì vậy, họ để cảm xúc lấn át lý trí – khiến nhận định về thực tế bị bóp méo. Những người này chỉ quan tâm và tập trung hết sức cho những nhu cầu cá nhân. Họ chỉ làm điều có lợi cho mình, nếu không sẽ không duy trì được tâm trạng tốt. Ngược lại, khi tâm trạng không tốt, họ sẵn sàng tỏ ra thô lỗ. Vì vậy, chẳng đời nào họ chịu hợp tác nếu không thấy có lợi. Cách duy nhất có thể lay chuyển được những người này là đánh vào “cái tôi” của họ, vì cảm giác về sự đúng/sai của họ đã bị bóp méo quá ư lệch lạc, nên cách duy nhất là phải làm sao khơi được nhận thức đúng đắn của họ.
+
+Những ví dụ trong cuộc sống
+Trường hợp có lòng tự trọng cao
+
+Trường hợp A: Một luật sư bào chữa đang tiếp xúc với người sắp tới sẽ là thành viên bồi thẩm đoàn cho vụ án mà anh ta đang thụ lý, trong đó thân chủ của anh ta phạm một tội khá nghiêm trọng.
+
+Tóm tắt: Nếu bị cáo có chứng cứ chắc chắn chứng minh được anh ta vô tội, người bồi thẩm kia sẽ giữ kín nó. Còn nếu vụ án vẫn chưa có chứng cứ xác đáng thì ông ta cũng không dễ dàng chấp nhận để vị luật sư kia dắt mũi. Tuy nhiên, ông ta cũng không đến nỗi không có cảm giác tội nghiệp hay đồng cảm gì với nỗi đau của anh ta. Khi một người có tự trọng cao và không có hứng thú từ trước (động cơ từ trước), anh ta sẽ dễ dàng đồng cảm với người khác hơn, vì “cái tôi” không chiếm trọn suy nghĩ và sự chú tâm của anh ta.
+
+Điều này cũng không có nghĩa là vị bồi thẩm kia vì cảm thấy tội nghiệp cho bị cáo mà không quan tâm tới các chi tiết khác của vụ án. Vì người đó có lòng tự trọng cao, lại không bị ảnh hưởng bởi động cơ nào cả, nên ông ta tự có cảm giác mình làm đúng và không quan tâm tới việc phải trừng phạt ai. “Ta phải làm điều đúng. Công lý phải được thực thi” là tâm niệm của ông, và vì thế ông công bằng và ổn định. Nếu không có lí do nào buộc ông thay đổi quan điểm thì ông có thể vẫn lắng nghe ý kiến của người khác và giữ nguyên sự kiên định của mình.
+
+Một nhân tố khác cũng cần chú ý ở đây là những niềm tin đã tồn tại từ trước. Giả sử vị bồi thẩm này có định kiến rằng mọi giám đốc điều hành (CEO) đều là những kẻ tham lam và sẽ làm bất cứ điều gì có thể để kiếm tiền, thì quan niệm này chắc chắn sẽ ảnh hưởng tới suy nghĩ của ông. Vì vậy, để nhanh chóng giải quyết được vấn đề (xem lại chương 2, phần Thủ thuật 2), bạn nên hỏi các câu hỏi liên đới để xem liệu suy nghĩ của ông ta có chịu ảnh hưởng của một định kiến nào không.
+
+Trường hợp có lòng tự trọng cao
+
+Trường hợp B: Một nhân viên tập sự đang chuẩn bị bản báo cáo cho một phiên tòa.
+
+Tóm tắt: Trường hợp này cũng tương tự như ví dụ trước, trừ một điểm khác. Ở đây, công việc của người đó gắn liền với hoàn cảnh thực tế. Vì thế, dù anh ta rõ ràng không có hứng thú nào từ trước đối với kết quả, anh ta sẽ vẫn muốn đưa ra được các quyết định đúng đắn và mang lại hiệu quả.
+
+Vì vậy, chúng ta cần nhìn vào cả quá trình làm việc, chú ý hơn tới những quyết định trong thời gian trước đó của anh ta. Nếu trước đó không lâu, anh ta mới đưa ra một số kiến nghị được đông đảo mọi người đón nhận, thì bạn có thể trông đợi nhiều hơn thế. Tuy nhiên, mức độ cao hay thấp của lòng tự trọng mới là thứ chỉ ra độ lệch lạc giữa quan niệm về đúng/ sai của anh ta với cái “có thể chấp nhận được”, xét về khía cạnh nguyên tắc mà nói. Chúng ta thường nhầm lẫn rằng người tự cao tự đại là kẻ sẵn sàng “lươn lẹo” để mọi thứ phù hợp với những ý định riêng của anh ta (mà ai ai cũng biết), nhưng điều này chỉ đúng khi anh ta bị đặt vào trường hợp nguy khốn. Thực chất thì chính những người không có động cơ từ đầu với kết quả và có lòng tự trọng cao mới là những người có chiều hướng lệch lạc khi kết quả công việc không làm lợi cho anh ta.
+
+Trường hợp có lòng tự trọng thấp
+
+Trường hợp A: Một luật sư bào chữa đang tiếp xúc với người sắp tới sẽ là thành viên bồi thẩm đoàn cho vụ án mà anh ta đang thụ lý, trong đó thân chủ của anh ta phạm một tội khá nghiêm trọng.
+
+Tóm tắt: Trường hợp này cần tính toán phức tạp hơn so với trường hợp người bồi thẩm có lòng tự trọng cao. Về bản chất, kiểu người có lòng tự trọng thấp lúc nào cũng chỉ suy nghĩ cho “cái tôi” của anh ta mà không xem xét tới tính nghiêm trọng của vụ án, chỉ trừ trường hợp cá nhân ông ta có dính dáng tới vụ việc. Nếu không phải là vụ án quan trọng, mức độ hứng thú của họ sẽ giảm. Họ quan tâm nhiều tới cảm xúc cá nhân hơn thực tế và dễ dàng để các cảm xúc phi lý lẫn suy nghĩ chủ quan của mình chi phối mọi thứ.
+
+Người tự coi mình là trung tâm sẽ nhìn nhận mình qua đánh giá của những người khác, nên kết quả vụ án phụ thuộc phần nhiều vào đối tượng mà vị bồi thẩm sẽ đối chiếu mình với họ - có thể là nguyên cáo hoặc bị cáo. Nếu có thiện ý với người đó, ông ta có thể có suy nghĩ kiểu “họ cũng giống mình.” Vụ kiện có thể bị ngưng lại hoặc nó cũng có thể đảo chiều, gây ra phản ứng ngược lại (bắt giữ bị cáo) nếu người bồi thẩm có cảm giác không tốt về người ông ta để ý.
+
+Khả năng xảy ra cảm giác ghen ghét, đố kỵ sẽ càng mạnh lên khi ta so sánh với những người giống như ta. Ví dụ, một người thợ sơn có thể không có cảm giác gì khi đem so với một bác sĩ phẫu thuật. Nhưng với một bác sĩ, đặc biệt với người có tự trọng thấp, sự so sánh và đố kỵ với những bác sĩ khác là không thể tránh khỏi. Điểm mấu chốt ở đây là người luật sư phải hỏi được các câu hỏi liên đới (xem lại chương 2) để phát hiện xem liệu trường hợp bắt thân chủ của mình có xảy ra không.
+
+Nói chung, nếu người bồi thẩm có tâm trạng tốt trong suốt buổi xét xử, đặc biệt là vào lúc cần ra quyết định cuối cùng, và nếu ông ta lại đồng cảm với bị cáo thì ông ta rất dễ ngả theo chiều hướng nhìn nhận bị cáo vô tội. Ngược lại, nếu người bồi thẩm đang có tâm trạng tồi tệ, ông ta rất có khả năng kết án bị cáo. Nguyên nhân của cơ chế này là do: khi tâm trạng tồi tệ, “cái tôi” sẽ chiếm trọn suy nghĩ, và lúc đó sẽ vô thức cho rằng nếu người “giống mình” là kẻ tồi tệ hơn thì chắc chắn mình sẽ là người tốt hơn.
+
+Nếu là kiểu người LE-A, vị bồi thẩm này có thể dễ dàng bị thuyết phục khi bị một bồi thẩm khác đả kích. Nếu là phản ứng tức giận, ông ta sẽ phản kích tới cùng. Còn nếu đã đạt được mục đích và muốn kết thúc vụ việc, ông ta sẽ nhanh chóng ưng thuận theo lí lẽ của thành viên bồi thẩm khác. Cảm giác thỏa mãn và nhu cầu của bản thân ông ta mới là cái quan trọng nhất, trên cả công lý. Vì thế, nếu vụ kiện đã kéo dài thì luật sư nên chú ý tới sự thay đổi của vị bồi thẩm mỗi khi ông ta có cảm giác mình đã đạt được mục đích.
+
+Ngược lại, kiểu người LE-D thường có tâm lý kiểu “đám đông”. Trong những vụ việc kiểu này, ông ta thường máy móc đồng ý với số đông; trừ trường hợp sự gắn bó chặt chẽ với một bên (nguyên đơn hoặc bị cáo) quá mạnh tới nỗi không thể trốn tránh, ông ta mới có phản ứng khác: đó là cố gắng “giữ vững lập trường” cho tới khi không chịu nổi áp lực nữa mới thôi.
+
+Trường hợp có lòng tự trọng thấp
+
+Trường hợp B: Một nhân viên tập sự đang chuẩn bị báo cáo cho một phiên tòa.
+
+Tóm tắt: Một lần nữa, trường hợp này cũng tương tự như ví dụ trước, trừ một điểm khác. Ở đây, công việc của người đó gắn liền với hoàn cảnh thực tế. Tuy nhiên, lòng tự trọng thấp lại làm giảm sự nhạy bén của người nhân viên. Bạn sẽ nhận thấy người này luôn cố gắng rập khuôn theo một mẫu có sẵn. Dấu hiệu nhận biết rõ nhất đó là anh ta sẽ cố làm giống như đã từng làm trong trường hợp tương tự trước đây. Nếu là kiểu người LE-A, anh ta sẽ cố thể hiện mình là một kiểu người nhất định nào đó, ví dụ như kiểu “người nghiêm túc, không làm chuyện phi lý”. Nếu có điều chỉnh nào so với khuôn mẫu thông thường thì chẳng qua đó là do anh ta nhận thấy trường hợp đó khác xa với những cái khác.
+
+Bằng cách rập khuôn như thế, anh ta chẳng cần thiết phải thay đổi cách nhìn nhận bản thân mình. Người kiểu này sẽ dễ dàng bị thuyết phục nhất khi được người ta chỉ cho rằng vụ việc lần này khác xa với những vụ thông thường khác, và rằng điều đó cho phép anh ta dựa trên những thông tin mới có thể đưa ra những quyết định khác, thậm chí là quyết định ngược hẳn so với bình thường.
+
+Còn nếu là kiểu người LE-D, anh ta sẽ thiên về nghe theo đám đông và những lý lẽ thông thường, phổ biến. Cũng hành động cảm tính giống như kiểu LE-A, nhưng người kiểu này lại dễ chấp nhận làm vì người khác. Vì thế, mọi lựa chọn của anh ta cũng xoay quanh nhu cầu và ý muốn của người khác. Không tính những ảnh hưởng này thì lối suy nghĩ của kiểu LE-D cũng giống hệt lối suy nghĩ của kiểu tính cách LE-A.
+
+LOẠI B: Người có hứng thú từ đầu
+
+Phân tích S.N.A.P.: Đánh giá chung
+Khi toàn bộ suy nghĩ tập trung hướng về lợi ích cá nhân, mức độ tự tin của một người trở thành nhân tố quyết định thái độ và hành vi của họ. Vì tự tin và hứng thú tỷ lệ nghịch với nhau nên cảm giác, suy nghĩ và hành động của họ được quyết định dựa trên mức độ hứng thú của anh ta so với cơ hội thành công mà anh ta tự đánh giá được (chính là sự tự tin).
+
+TIẾP CẬN NHANH
+
+Sự có mặt của đám đông có tạo nên khác biệt không? Việc tạo điều kiện thuận lợi về mặt xã hội cũng là một yếu tố có tác động kích thích kết quả, khi việc chúng ta làm được đánh giá và có sự chứng kiến của nhiều người. Các nghiên cứu đã chỉ ra rằng các kích thích này có thể khiến chúng ta làm tốt hơn đối với những việc đơn giản và làm kém đi đối với các việc phức tạp hơn. Ví dụ, một tay bắn súng hạng xoàng khi thực hiện nhiệm vụ dưới sự quan sát của một số người khác có thể bắn trúng ít hơn. Nhưng với người bắn giỏi, anh ta lại bắn trúng nhiều hơn (theo Micheals, sách xuất bản năm 1982). Khi bạn phải thi với một người giỏi hơn, hãy làm nó khi không có ai quan sát. Ngược lại, nếu bạn giỏi hơn, hãy lôi kéo nhiều người tới xem vì nó sẽ kích thích bạn thực hiện tốt hơn và đánh bại được đối thủ của mình.
+
+Khi lòng tự trọng cao, mức độ tự tin đồng nghĩa với mức độ hành động. Nói một cách đơn giản con người chỉ theo đuổi cái mình muốn khi nào có cảm giác tốt về bản thân và thấy tỉ lệ thành công cao. Nhưng nếu phải làm gì vì trách nhiệm thì khi mức độ tự tin vào thành công giảm, việc chấp nhận bỏ công sức để làm việc đó cũng giảm theo. Và khi sự nỗ lực đã giảm, khả năng hành động cũng không còn cao.
+
+Tâm trạng cũng không ảnh hưởng nhiều đến quyết định hành động khi người ta có lòng tự trọng cao. Chỉ khi mức độ nguy cấp của vấn đề không quá lớn hoặc chỉ là tạm thời thì tâm trạng mới vào cuộc. Lúc này, việc làm vì trách nhiệm trở nên ít quan trọng vì thực chất vấn đề đó cũng không gây ảnh hưởng nhiều và lâu dài.
+
+Ngược lại, khi lòng tự trọng thấp, tâm trạng trở thành nhân tố vừa có ảnh hưởng lớn hơn vừa có sự ràng buộc chặt chẽ với sự tự tin. Khi cảm nhận về mức độ thành công tăng cao, sự tự tin cũng theo đó mà được nâng lên, tâm trạng sẽ tốt lên và ngược lại. Khi lòng tự tin đang dâng cao, người có lòng tự trọng thấp không nề hà gì mà theo đuổi mục tiêu của họ, thậm chí đôi khi còn nghiêm túc hơn người có tự trọng cao nhiều. Đến mức độ đó, công sức cần bỏ ra bao nhiêu cũng không thành vấn đề đối với kiểu người LE-A. Lí do là những người này chỉ nghĩ tới biểu hiện bên ngoài để thể hiện giá trị của mình, chứ không phải bản thân anh ta; chính vì thế, sự thành công sẽ khiến họ thích bản thân mình hơn.
+
+Với kiểu người LE-D, việc có lòng tự trọng thấp và “cái tôi” không được khẳng định làm họ không muốn bỏ nhiều công sức vào việc cải thiện cuộc sống cũng như làm mình vui hơn. Vì thế, họ thường dễ dàng bỏ cuộc hoặc tự nuông chiều bản thân bằng cách chọn làm những thú vui thoáng qua hơn là những lợi ích lâu dài, để nhanh chóng có được cảm giác tốt đẹp và tự bảo vệ mình khỏi bị thất bại. Tuy nhiên, đối với những người LE-A, nếu cả sự tự tin lẫn tâm trạng đều đang chùng xuống thì họ sẽ có cảm giác tức tối, giận dữ và dễ cáu gắt. Họ muốn làm việc gì có lợi và chỉ quan tâm tới bản thân mình. Khi mọi chuyện không diễn ra theo ý mình, mức độ giận dữ sẽ tỉ lệ thuận với mức độ hứng thú của họ.
+
+Sàng lọc qua tình huống
+
+Giờ chúng ta sẽ không phải tìm hiểu về các cách ngụy trang, che giấu cảm xúc mà là các phản ứng theo tình huống và những nhân tố có ảnh hưởng tới suy nghĩ và thái độ trong ứng xử của con người. Khi không có hứng thú từ trước, chúng ta sẽ dễ dàng quyết định làm điều gì đúng đắn và duy trì những giá trị tốt cũng như tư tưởng đạo đức của mình hơn. Nhận định này không có ý kết tội bản chất con người là xấu, đây chỉ là một kết luận thực tế về một trong những chức năng mà bản chất của con người thực hiện mà thôi. Nhân tố duy nhất có thể kìm hãm sức ảnh hưởng của động cơ cá nhân (khi nó mâu thuẫn với mong muốn làm điều đúng) chỉ có thể là lòng tự trọng, và lòng tự trọng cũng là cái có thể giữ lại các giá trị và niềm tin đúng đắn.
+
+Trong một số trường hợp, việc biết được càng nhiều thông tin cá nhân về đối tượng – những thông tin có thể liên quan tới hoàn cảnh mà bạn đang xét đoán, sẽ càng có lợi, thậm chí rất cần thiết, để bạn biết được mức mâu thuẫn giữa “cái tôi” của người đó và ý thức về đạo đức của họ. Khi mức độ hứng thú càng tăng, việc nhận biết càng trở nên phức tạp. Vấn đề sẽ trở nên đơn giản hơn đối với người không có hứng thú từ trước hay với người bộc trực, thẳng thắn, bởi vì hứng thú cá nhân khi được biểu lộ ra ngoài sẽ không làm người khác khó phán đoán khi đem so với các giá trị đạo đức của họ.
+
+Mức độ hứng thú của một người có thể rất khó đoán biết, nhưng bạn có thể hướng các phán đoán của mình quanh nó (xem lại cách sử dụng các thủ thuật trong chương 3, phần Dấu hiệu 2) bằng cách khơi lại đúng chủ đề và quan sát xem liệu đối tượng có trở nên cảnh giác hơn hay không. Nếu đúng là họ cảnh giác hơn thì bạn đã gần tới ngưỡng các giá trị về đạo đức bị khuất phục bởi hứng thú cá nhân của họ.
+
+Ngoài ra, cũng rất cần tham khảo các tình huống tương tự đã từng xảy ra khi đặt câu hỏi về cái ngưỡng khi các giá trị và niềm tin của đối tượng có thể bị làm mòn tới mức họ phải hành xử ngược lại với bản chất của mình. Những hành xử trong quá khứ chính là chỉ dẫn tốt nhất cho hành xử trong tương lai. Đứng trước những sự kiện quan trọng, hoặc gặp phải sự thay đổi thái độ, bạn có thể chắc chắn rằng một người có thể lặp lại chính xác những gì anh ta đã làm.
+
+Ví dụ, nếu bạn đang cố lôi kéo một nhân viên từ công ty khác về, bạn có thể chắc chắn một điều rằng anh ta cũng có thể dễ dàng bị lôi kéo khỏi công ty bạn. Tương tự như vậy, một người phụ nữ có quan hệ tình cảm với một người đàn ông đã có gia đình cũng cần cảnh giác rằng anh ta rồi sẽ quay lại “cắm sừng” cô ta, điều này thậm chí còn được chứng minh về mặt số liệu thống kê.
+
+Trường hợp có lòng tự trọng cao
+Tập trung vào các lợi ích lâu bền.
+Không chịu ảnh hưởng của tâm trạng, vì cả lòng tự trọng và hứng thú đều ở mức cao. Tâm trạng vào cuộc chỉ khi đó là việc không mấy quan trọng.
+Sự tự tin trở thành nhân tố gây ảnh hưởng mạnh.
+Người kiểu này muốn làm điều đúng với lương tâm của mình, nhưng sẽ gặp khó khăn khi lương tâm mâu thuẫn với lợi ích. Ví dụ, khi tìm thấy một cái ví trong đó có 10 đôla và một nắm thẻ tín dụng, anh ta sẽ thiên về hướng tìm lại chủ nhân của nó. Nhưng khi vật tìm thấy lại là một cái túi đầy tờ 100 đôla, anh ta sẽ phải đấu tranh tư tưởng. Lương tâm muốn làm điều đúng và mong muốn đem cái túi tới chỗ cảnh sát của anh ta sẽ phải đấu tranh (ở một chừng mực nào đó phụ thuộc vào mức tự trọng và lợi ích của bản thân anh ta), và rất có thể anh ta sẽ hành động đi ngược lại đạo đức và các giá trị của mình.
+
+Trường hợp A: John đang đàm phán hợp đồng với bạn.
+
+Giả sử John đã có hứng thú từ đầu, giờ mối quan tâm của bạn là sự tự tin. Nếu bạn đánh giá anh ta là người có lòng tự tin cao, vụ thương thảo của bạn sẽ trở nên rất khó khăn. Có nhiều hứng thú, có tự tin lại thêm tự trọng cao tạo cho anh ta “thế” không có gì phải sợ. Anh ta sẽ chẳng đời nào chịu “dưới cơ” mà chấp nhận những điều khoản vô lí. Cơ hội duy nhất để bạn lay chuyển được anh ta đó là đánh vào sự tốt bụng – làm gì đó cho bạn – dù rằng có thể anh ta cũng chẳng làm vậy.
+Tuy nhiên, nếu bạn đánh giá anh ta theo chiều hướng ngược lại, tức là người có tự trọng thấp, thì bạn sẽ dễ dàng chiếm thế thượng phong bằng cách làm tăng khả năng anh ta sẽ ra về mà ít đạt được thỏa thuận có lợi cho mình. Nhờ đó, bạn sẽ nắm quyền chủ động khi khéo léo lật suy nghĩ của John từ thiên về lý trí chuyển sang thiên về cảm xúc, để có cơ hội đẩy anh ta xa rời khỏi những mục tiêu và lợi ích lâu bền của chính anh ta.
+
+Trường hợp B: Bạn đang chơi bài và bài không đẹp đối với cả bạn và người chơi cùng bạn.
+
+Trường hợp này bạn nên sử dụng các thủ thuật trong chương 3 để xác định mức độ tự tin của đối thủ, nhằm lựa cách chơi cho phù hợp. Vì bạn không có cách nào để biết chính xác bài anh ta đang cầm là những quân gì, bạn chỉ có thể phán đoán các tình huống và kết quả có thể xảy ra dựa trên điều sau: anh ta sẽ chơi tùy theo bài vận của mình và không sợ làm theo bản năng. Anh ta sẽ không tự làm mình rơi vào thế bí hoặc bị cảm xúc đánh lạc hướng. Nếu anh ta cũng không được bài đẹp, đó sẽ là cả quá trình lừa gạt có tính toán, có hơi hướng mạo hiểm nhưng không quá ngu ngốc.
+
+Nếu là người có lòng tự tin cao (anh ta tự điều chỉnh nhận thức của mình), đối thủ của bạn sẽ có chiều hướng chơi quyết liệt hơn một chút, vì lòng tự tin tương ứng với tâm trạng. Các nghiên cứu đã chỉ ra rằng nếu trong khoảng thời gian gần đó mà một người chơi thắng lớn được một lần, hoặc thường có bài đẹp thì anh ta sẽ có hơi hướng chơi bài mạo hiểm hơn. Còn nếu lòng tự tin thấp thì chính lòng tự trọng cao sẽ giúp anh ta tránh khỏi việc bị lung lạc và chơi kém đi.
+
+Trường hợp có lòng tự trọng thấp
+Tập trung vào các nhu cầu nhất thời.
+Tâm trạng là nhân tố chủ đạo mang tính quyết định, lấn lướt cả lòng tự trọng ngay trong những tình huống không thực sự quan trọng, vì đối với người có lòng tự trọng thấp, không gì so được với bản thân và lợi ích cá nhân của họ.
+Lòng tự tin cũng là một nhân tố quan trọng, quay xung quanh mức độ hứng thú.
+Khi có hứng thú từ trước nhưng lại có tự trọng thấp, sự tự tin là thứ rất dễ bị lay chuyển trong con người ta. Người kiểu này rất dễ có phản ứng tiêu cực (kiểu như phát điên lên) nếu anh ta nhận thấy sự việc đó có thể khiến cuộc sống của anh ta bị đảo lộn – làm anh ta đánh mất vận may của mình. Khi kém tự tin, nhận thức của họ thậm chí còn bị bóp méo hơn và hoàn toàn có khả năng hành xử vô lý, dễ tức giận, cáu gắt với bất kỳ thứ gì ngáng đường đi tới mục tiêu của họ.
+
+Trường hợp A: Brad đang đàm phán hợp đồng với bạn.
+
+Tự trọng thấp và tự tin cao có nghĩa là Brad sẽ hành xử vô cùng cảm tính và liều lĩnh; bất kỳ cơ hội nhỏ nào tạo cảm giác tốt cũng đều không thể bỏ qua. Anh ta cảnh giác cao độ với mọi thứ và không có thứ gì thoát khỏi cặp mắt của anh ta. Buổi đàm phán này là cơ hội, là giây phút anh ta có thể tỏa sáng. Đừng ngạc nhiên nếu anh ta cố thể hiện bản thân mình hơi thái quá. Tuy nhiên, nếu đây là kiểu người LE-D thì dù anh ta có suy nghĩ theo lối này đi chăng nữa thì biểu hiện của anh ta vẫn cứ giấu giấu giếm giếm, và không có chút gì sồn sồn như người LE-A.
+
+Ngược lại, khi tự tin thấp, anh ta sẽ chùn lại, e sợ, thậm chí ngay cả khi mọi chuyện diễn ra trên bàn đàm phán đang theo chiều hướng rất logic – anh ta sợ và sẽ bỏ chạy. Anh ta cũng có thể biểu hiện là mình không có chút hứng thú nào, vì mong muốn này nằm ngoài tầm với của anh ta và vì “cái tôi” tự bảo vệ anh ta khỏi bị gây hại và tổn thương. Anh ta sẽ cố hợp lý hóa mọi lý do vì sao mình không dám đứng lên đòi quyền lợi cho bản thân. Kiểu người LE-D sẽ có biểu hiện chán nản, thất vọng, còn kiểu người LE-A sẽ trở nên thô lỗ và nổi khùng lên, đặc biệt là khi hứng thú càng cao thì sự tức giận càng tăng.
+
+Trường hợp B: Bạn đang chơi bài và bài không đẹp đối với cả bạn và người chơi cùng bạn.
+
+Kiểu người LE-A với lòng tự tin cao sẽ chấp nhận rút ra bất kỳ lá bài nào trên tay để đổi lấy thứ có giá trị. Giá trị bản thân anh ta nằm ở chính các lá bài và cuộc đời anh ta đánh cược vào giây phút này. Bạn sẽ nhận thấy anh ta luôn cố gắng để trụ bài mà không phải ngửa bài ra lần nào. Hãy chú ý xem liệu anh ta có đảo mắt tìm kiếm người sẽ chứng kiến giây phút anh ta chiến thắng hay không nhé. Còn với người kiểu LE-D, ta sẽ khó đọc vị họ hơn nhưng những người này cũng sẽ có kiểu cố tìm xem ai có thể làm chứng cho sự thành công của họ không. Trường hợp cả hai kiểu người này đều không tự tin vào lá bài của mình, họ sẽ đánh bài kiểu gìn dứ, kém hăng hái hơn.
+
+Vừa tiến vừa lùi
+Khi đã quen với quá trình phân tích và đọc vị tâm tư người khác, bạn có thể áp dụng các kỹ năng đã học theo hai hướng. Bạn sẽ có khả năng xếp loại tính cách và đọc vị suy nghĩ cũng như hành xử của họ. Bên cạnh đó, bạn còn hiểu được những kiểu che giấu cảm xúc mà họ áp dụng trong đại đa số trường hợp. Việc phân loại và tìm hiểu tính cách con người là quá trình hai chiều, vừa tiến (dự đoán phản ứng của họ trong tương lai) vừa lùi (xem xét lại phản ứng mà họ từng làm trong quá khứ). Ví dụ:
+
+Qua quan sát, bạn kết luận rằng một vận động viên quần vợt là người có lòng tự trọng thấp, tự tin và có hứng thú cao độ. Điều này có nghĩa là anh ta nhận thức về giá trị của mình thông qua những khả năng của bản thân. Anh ta tự đặt thế giới trong mối hiểm nguy cùng sự hứng thú cao độ của mình. Vì vậy, hãy quan sát kiểu người có tự trọng thấp quyết định phản ứng của họ, bạn sẽ thấy rằng kiểu người LE-A thường ồn ào, thích kiểm soát mọi thứ, có xu hướng thiển cận, tự mãn và khó chiều. Bạn biết kiểu người này thường phản ứng tiêu cực thái quá khi mọi chuyện không được như ý. Những dấu hiệu xấu có thể khiến anh ta quay ra quát mắng bất kỳ ai, hoặc phản ứng kiểu tương tự. Kiểu người LE-D thậm chí không dám phàn nàn về những điều này hoặc có phản ứng trái ngược hẳn, nhưng thường là biểu lộ cảm xúc chán nản, mệt mỏi.
+
+Bạn cũng có thể làm động tác ngược lại: tìm hiểu về hành xử của một người trong quá khứ. Ví dụ trong trường hợp của người chơi quần vợt nói trên, việc biết được quá khứ của anh ta thế nào sẽ giúp bạn kết luận được tính cách của anh ta là kiểu người có lòng tự trọng thấp, tự tin và có hứng thú cao.
+
+Giờ hãy đọc một số ví dụ về cách chúng ta dự đoán kết quả hành động hoặc đọc vị kiểu che giấu cảm xúc của một người khi chúng ta đã biết kiểu phản ứng của họ:
+
+Hỏi: Pam làm việc trong một văn phòng, nơi bạn đồng nghiệp của cô vừa bị sa thải bất chấp sự phản đối của cô. Giờ đây vị trí ấy đã được Sue thay thế. Nếu bạn muốn biết Pam là người có tự trọng cao hay thấp thì phản ứng nào của cô ta cho bạn biết điều đó?
+
+Đáp: Nếu có lòng tự trọng cao, cô ta sẽ chọn làm điều đúng với lương tâm của mình, chứ không phải cố tỏ ra mình là người đúng. Tuy nhiên, nếu là người có tự trọng thấp, việc chứng minh mình đúng trở nên quan trọng hơn so với lợi ích của công ty. Vì vậy, cô ta có lẽ sẽ ứng xử theo cách tỏ ra mình không muốn giúp – với các biểu hiện đa dạng từ việc luôn cố đả kích cho tới chọc phá Sue công khai khi cô này làm công việc mới của mình.
+
+Hỏi: Kelly là người giúp việc ở nhà bạn. Một hôm cô tìm thấy một đồng 25 xu dưới tràng kỷ ở phòng khách và đặt nó lên trên bàn cho bạn. Có thể kết luận đó là người trung thực hay không? Nếu Kelly tìm thấy một tờ 100 đôla nhàu nhĩ trong túi quần của bạn thì cô ta sẽ làm gì nhỉ?
+
+Đáp: Phần trăm cơ hội lấy lại tờ 100 đôla của bạn sẽ là rất thấp nếu đó là người có tự trọng thấp. Khi sự hứng thú từ trước của một người có nguy cơ bị nguy hiểm, chúng ta cần xem xét bất kỳ tình huống nào có thể phá vỡ thế cân bằng trong lương tâm của họ. Câu hỏi “Không biết cô ta cần tiền tới mức nào?” cần được đặt lên bàn tính.
+
+Ngược lại, nếu Kelly có tự trọng cao thì chỉ có lợi ích cá nhân mới có thể lay chuyển được cô. Vì thế, hãy tìm hiểu về hoàn cảnh của cô ta – liệu cô ta có đang bị mất nhà hay gặp khó khăn về mặt tài chính hay không? Dĩ nhiên, những giả thiết này không thể tuyệt đối đúng. Đôi khi lương tâm của cô ta vẫn không bị thay đổi, nhưng hãy chú ý tới các biểu hiện của sự nao núng, nhụt chí.
+
+Hỏi: Bạn muốn người đồng nghiệp ủng hộ dự án của mình. Liệu anh ta có làm vậy hay không?
+
+Đáp: Nếu cái giá anh ta phải trả tăng lên thì cơ hội của bạn giảm xuống. Nếu việc ủng hộ bạn gây ảnh hưởng xấu tới thanh danh của anh ta thì cái giá của tư lợi lại mâu thuẫn với cái giá của mối quan hệ giữa hai người. Một lần nữa, lòng tự trọng sẽ khiến anh ta làm điều đúng với lương tâm, chứ không phải làm để đánh bóng bản thân (vì danh tiếng cá nhân). Người LE-D sẽ có xu hướng giúp đỡ hơn là người LE-A, vì họ không muốn mạo hiểm mà khiến bạn mếch lòng hoặc tức giận với họ.
+
+Hỏi: Một phụ nữ đang trong buổi hẹn hò và muốn biết suy nghĩ của đối phương. Cô tin rằng anh ta có tình cảm với cô, nhưng phản ứng tiếp theo của anh ta sẽ là gì?
+
+Đáp: Người đàn ông sẽ hành động nếu anh ta có cảm giác tự tin. Còn nếu anh ta không có tự tin thì sẽ cố tìm cách đánh bóng hình ảnh của mình hơn nữa. Để cố thể hiện bản thân tốt hơn, anh ta sẽ hỏi các câu hỏi và cố chiếm cảm tình của đối phương. Anh ta sẽ trở nên tập trung vào bản thân và biểu hiện của mình một cách thái quá. Cũng cần chú ý rằng có thể anh ta sẽ giả vờ không thích đối phương để tự bảo vệ mình khỏi bị tổn thương nếu tình cảm không được đáp lại.
+
+Những kiểu tính cách điển hình
+Cuối cùng, chúng ta hãy xem xét sáu kiểu tính cách quan trọng và gợi cảm hứng muốn tìm hiểu nhiều nhất. Việc làm quen với sáu kiểu này sẽ giúp ích cho bạn rất nhiều.
+
+Hỏi: Kiểu người nào sẽ dễ manh động nhất?
+
+Đáp: Kiểu người tự tin, có hứng thú cao, bỏ nhiều công sức và tự trọng thấp.
+
+Phân tích logic: Hầu hết những người kiểu này khi theo đuổi một mục tiêu nào đó thường rất dễ kích động. Vì tự tin nên họ thường không tin vào vận may. Mức độ hứng thú cũng cao nên sẽ có động cơ để hành động. Tự trọng thấp đồng nghĩa với việc họ không muốn bỏ lỡ cơ hội và bỏ nhiều công sức nghĩa là họ đã hoàn tất việc hợp lý hóa mọi hành động, cũng như giá trị của mục tiêu và không muốn làm hỏng hình tượng đã tốn công gây dựng của mình bằng cách “đem con bỏ chợ”. Lòng tự trọng thấp chỉ vào cuộc khi họ nhận thấy tình huống đang gây bất lợi cho mình.
+
+Hỏi: Kiểu người nào dễ buông xuôi/bỏ cuộc nhất?
+
+Đáp: Kiểu người có ít hứng thú, tự trọng cao và bỏ ít công sức.
+
+Phân tích logic: Kể cả khi có hứng thú nhiều hơn một chút, những người kiểu này cũng không có động cơ nào đáng kể về mặt lý tính cả. Giả sử bạn đang xem nhà, thậm chí bạn có thích căn nhà đó đến mấy đi chăng nữa, nếu bạn không lấy nó thì cũng chẳng sao, nên nhận thức không hề bị bóp méo. Ngoài ra, nếu gặp trường hợp một người với những đặc điểm trên lại kèm thêm “chi tiết” có lòng tự tin thấp nữa thì bạn có thể chắc chắn rằng họ còn dễ bỏ cuộc hơn (ít có động lực hành động).
+
+Hỏi: Kiểu người nào dễ bị thuyết phục nhất?
+
+Đáp: Kiểu người tự tin thấp, có hứng thú cao.
+
+Phân tích logic: Các nghiên cứu chỉ ra rằng trong nhiều trường hợp, cả hai loại tự trọng (thấp và cao) đều có ảnh hưởng tới khả năng bị người khác thuyết phục của đối tượng. Trong trường hợp biết tự tôn trọng bản thân, bạn có thể đánh bại “cái tôi” trong mình và thừa nhận đã phạm phải sai lầm. Cùng lúc đó, bạn có thể tự tin hơn về ý kiến của mình. Trong khi nếu là người tự trọng thấp, bạn sẽ khó khăn hơn để chấp nhận là mình đã sai, nhưng đồng thời bạn cũng hoài nghi về cách người khác gây ảnh hưởng tới bạn, và nói chung ít tự tin về bản thân. Trong cả hai trường hợp này, nếu đối tượng đều đã bỏ ra một lượng công sức nhiều như nhau thì ta hoàn toàn có thể gây ảnh hưởng lên chiều hướng hành động hiện tại của họ. Còn nếu công sức bỏ ra là ít thì bạn càng có khả năng thuyết phục họ thay đổi hướng hành động.
+
+Hỏi: Kiểu người nào dễ làm điều sai trái nhất (như là nói dối, lừa lọc hay trộm cắp), và trong trường hợp đó thì kiểu người nào khó bảo, cứng đầu và khó lay chuyển nhất?
+
+Đáp: Kiểu người tự trọng thấp, có hứng thú cao, tự tin và tâm trạng bất ổn.
+
+Phân tích logic: Kiểu người này tạo ra các tập hợp nhân tố tâm lý tệ nhất trong một tình huống cụ thể. Khi có hứng thú và lòng tự tin đều ở mức cao, họ sẽ cảm thấy mình luôn thành công trong mọi chuyện. Cả hai loại người (LE-A và LE-D) trong những điều kiện “thích hợp” đều có thể phạm phải những hành động sai trái. Thực tế sẽ rất lạ nếu nghe nói “người lúc nào cũng ém cảm xúc, sống nội tâm” lại là người có hành vi không tốt; thế nhưng cần biết rằng dạng người cao ngạo, trơ tráo cũng là người hay che giấu cảm xúc của mình bằng biểu hiện tương tự như vậy.
+
+Khi có ít quyền lực trong tay, người dạng này trở thành kẻ lúc nào cũng chỉ biết đến nỗi đau của bản thân. Tự trọng thấp lại thêm tự tin cao khiến họ rất khó hợp tác. Nó còn khiến họ chỉ khi ở vị trí của mình mới cảm thấy mạnh mẽ và xem sự thành công của kết quả là thước đo giá trị của bản thân.
+
+Nhân tố cuối cùng là tâm trạng bất ổn (tệ hại). Tác nhân tâm lý này khiến họ cực kỳ dễ cáu kỉnh và có những hành xử vô lý. Họ trở nên cứng đầu, khó bảo và sẵn sàng nhảy bổ vào bất cứ thứ gì xảy đến với mình chỉ trong vài tích tắc. Đồng thời, vì họ vẫn luôn tìm kiếm sự tôn trọng từ người khác – cũng là một biểu hiện của nỗ lực tìm kiếm sự tự tôn – nên suy nghĩ của họ vẫn rất logic, có khả năng đánh giá và tập trung vào cảm nhận của bạn về họ. Vì thế, thật nghịch lý là họ đã nhận thức được đến thế mà vẫn tỏ ra hùng hổ, bất hợp tác, bởi vì họ nhìn nhận thế giới này như một cuộc đua với hình ảnh của bản thân treo lửng lơ ở giữa.
+
+Hỏi: Trong trường hợp tất cả các điều kiện như nhau, kiểu người nào dễ có quyết định sai lầm nhất?
+
+Đáp: Kiểu người có hứng thú cao nhưng tự trọng thấp.
+
+Phân tích logic: Hai nhân tố kể trên có mối liên quan tới nhau vì cả hai đều bóp méo nhận thức của con người. Khi không nhận thức mọi chuyện rõ ràng, chúng ta không thể có các quyết định đúng đắn. Lòng tự trọng thấp đến đâu cũng không thành vấn đề.
+
+Hỏi: Kiểu người nào nhạy bén, trung thực và đáng tin nhất?
+
+Đáp: Kiểu người có lòng tự trọng cao, ít tư lợi và tâm trạng tốt (ổn định).
+
+Phân tích logic: Với kiểu tính cách này, người ta rõ ràng đầy ắp sự nhanh nhạy, năng động. Lòng tự trọng cao đồng nghĩa với việc họ không cần khư khư giữ vững lập trường của mình làm gì, vì “cái tôi” của họ không ngại ngần thay đổi miễn là nó không phạm phải những giá trị đạo đức (lương tâm) của họ. Ít tư lợi có nghĩa là họ không quan tâm đến lợi ích cá nhân và có tâm trạng tốt nghĩa là họ sẽ sẵn sàng trong trạng thái “cho” hơn.
+
+Phương pháp S.N.A.P. đã cung cấp cho bạn cách đọc vị con người một cách hiệu quả trong bất kỳ tình huống nào. Nó cho phép bạn hiểu được suy nghĩ và tâm lý của một người ở mức cao mà không cần tốn nhiều thời gian. Dĩ nhiên, như đã trình bày trong các phần trước, cách phân tích và tìm hiểu tính cách này tuy rất hệ thống và có tính khoa học nhưng vẫn không tránh khỏi sai sót.
+
+Nhưng một khi đã quen với cách làm này, quen với các dấu hiệu cần tìm kiếm và cần nghe thấy, khả năng đọc vị một người của bạn sẽ trở thành bản năng lúc nào không hay.

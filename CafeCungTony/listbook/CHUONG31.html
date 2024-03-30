@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./listbookcss/book.css">
+	<title>Document</title>
+</head>
+<body>
+	<iframe id="myFrame" src="./txt/CHUONG31.txt" height="800px" width="100%"></iframe>
+
+	<script>
+	var frame = document.getElementById('myFrame');
+		frame.onload = function () {
+			var body = frame.contentWindow.document.querySelector('body');
+			body.style.color = 'black';
+			body.style.fontSize = '34px';
+			body.style.lineHeight = '60px';
+			body.style.margin = '30px 50px 150px';
+		};
+	</script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+:root {
+	--primary-color:#ec1f55;
+	--text-color : #333
+}
+body {
+	background-color: rgba(159, 3, 3, 0.242);
+}
+.user {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto 50px auto;
+	max-width: 440px;
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+	background-color: rgb(220, 220, 220);
+	margin-bottom: 90px;
+  }
+  .avarta  {
+	transition: transform 0.4s ease;
+  }
+  .avarta:hover {
+	transform: scale(1.4); /* Phóng to ảnh lên 110% */
+	
+  }
+
+  .overlay {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu overlay với độ trong suốt là 50% */
+    opacity: 0; /* Bắt đầu ẩn overlay */
+    transition: opacity 0.3s ease;
+  }
+  .Background {
+	position: relative;
+	height: 200px;
+	background-image: linear-gradient(to right, #3494e6, #09a5b0);
+	border-radius: 5px;
+  }
+  
+  .Background figure {
+	position: relative;
+	/* căn chỉnh vị trí */
+	top: 85%;
+	left: 40%;
+	transform: translate(-50%, -50%);
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 4px solid #ec6ead;
+	overflow: hidden;
+	user-select: none;} 
+	/* k thể sao chép */
+.avarta {
+	width: 100;
+	height: auto;
+	
+}
+.content {
+	padding: 100px 10px 10px 10px ;
+	user-select: none;
+}
+.content-title {
+	font-size: 34px;
+	font-weight: 800;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	margin: 1px;
+}
+.content-name {
+	font-size: 30px;
+	font-weight: 700;
+	color: #ff0000;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	margin-top: 16px ;
+	margin-bottom: 16px;
+}
+.content__sub-title {
+	font-size: 24px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+.content-des {
+	font-size: 18px;
+	font-weight: 500;
+	color: #333;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.contact {
+	font-size: 30px;
+	font-weight: 700;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	margin: 16px 0;
+}
+.socials {
+	width: 100%;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: space-around;
+	background-color: #fff;
+	border-radius: 4px;
+	margin-top: 16px;
+	opacity: 0.9;
+}
+.social {
+	font-size: 18px;
+	margin: 12px 0;
+	border: 2px solid #ececec;
+	border-radius: 50%;
+	cursor: pointer;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #09a5b0;
+	display: flex;
+	
+	
+}
+.social a {
+	font-size: 24px;
+	margin: 16px 0 0 30%;
+	color: #111;
+	height: 40px;
+	width: 60px;
+}
+.social:hover a{
+	color: #fff;
+}
+.social:hover {	
+	background-color: var(--primary-color);
+}
+.icon-block {
+	
+}
